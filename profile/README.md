@@ -20,7 +20,6 @@ No accounts to OmniPlayr itself. No cloud dependency. No telemetry.
 |---|---|
 | [OmniPlayr-server](https://github.com/OmniPlayr/OmniPlayr-server) | The main server - backend, frontend, plugin system |
 | [OmniPlayr-CLI](https://github.com/OmniPlayr/OmniPlayr-CLI) | CLI tool for installing and publishing plugins |
-| [OmniPlayr-docs](https://github.com/OmniPlayr/OmniPlayr-docs) | Website and documentation source |
 | [homebrew-tap](https://github.com/OmniPlayr/homebrew-tap) | Homebrew formula for the CLI |
 | [scoop-bucket](https://github.com/OmniPlayr/scoop-bucket) | Scoop manifest for the CLI on Windows |
 
